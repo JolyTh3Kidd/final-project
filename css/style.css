@@ -22,8 +22,7 @@ body._lock {
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 10;
-    background: var(--header-color);
+    z-index: 10;    
     background-image: linear-gradient(to right, #fcf3e6, #f9f4ed, #ffeace);
 
 }
@@ -144,7 +143,7 @@ body._touch .menu__link {
         height: 10%;
         width: 100%;
         transition: all 0.3s ease 0s;
-        background-color: var(--text-color);;
+        background-color: #000;
     }
     .menu__icon::before,
     .menu__icon::after {
