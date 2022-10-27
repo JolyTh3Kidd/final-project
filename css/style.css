@@ -55,8 +55,7 @@ body._lock {
     transition: 0.6s ease 0s;
 }
 .menu__link:hover {
-    transition: left 0.3s ease 0s;
-    text-decoration: underline;
+    transition: left 0.6s ease 0s;
 }
 body._touch .menu__list > li {
     display: flex;
